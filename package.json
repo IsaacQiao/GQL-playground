@@ -1,0 +1,26 @@
+{
+  "name": "gql-playground",
+  "version": "1.0.0",
+  "description": "Test github default init",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacQiao/GQL-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaacQiao/GQL-playground/issues"
+  },
+  "homepage": "https://github.com/IsaacQiao/GQL-playground#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2",
+    "node-fetch": "^2.2.1"
+  }
+}
